@@ -1,0 +1,2 @@
+control_rate,treatment_rate,absolute_lift,relative_uplift_pct,z_score,p_value,ci95_low,ci95_high,statistically_significant,recommendation
+0.1016,0.1302,0.028600000000000014,28.14960629921261,4.4672846306966445,7.921869835225692e-06,0.016064412445840455,0.041135587554159574,True,Ship treatment
